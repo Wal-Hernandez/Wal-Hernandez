@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wal-hernandez&label=Profile%20views&color=0e75b6&style=flat" alt="wal-hernandez" /> </p>
 
-<p align="left"> <a href="https://twitter.com/3034walter" target="blank"><img src="https://img.shields.io/twitter/follow/3034walter?logo=twitter&style=for-the-badge" alt="3034walter" /></a> </p>
+<p align="left"> <a href="https://twitter.com/3034walter" target="blank"></a> </p>
 
 - 🔭 I’m currently working on **Alkemy - React project**
 
