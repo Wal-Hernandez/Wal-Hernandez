@@ -35,3 +35,33 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wal-hernandez&show_icons=true&locale=en" alt="wal-hernandez" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wal-hernandez&" alt="wal-hernandez" /></p>
+
+
+## My Projects
+
+
+**Travel App**
+<a href='https://travelbus-henry-96a9maamc-wal-hernandez.vercel.app/'>![This is an image](TravelBuspack.png)</a>
+
+
+
+**Food recipes App**
+<a href='https://proyect-food-frontend.vercel.app/'>![This is an image](RecipesApp.png)</a>
+
+
+
+**Movies App**
+<a href='https://movies-vercel.vercel.app/'>![This is an image](MoviesApp.png)</a>
+
+
+
+**Marvel App - VueJS**
+<a href='https://vue-js-marvel.vercel.app/'>![This is an image](VueJS-CRUD.png)</a>
+
+
+
+
+**NodeJS App**
+<a href='https://node-express-web-v2.vercel.app/'>![This is an image](NodeJsApp.png)</a>
+
+
