@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/3034walter" target="blank"></a> </p>
 
-- 🔭 I’m currently working on **Alkemy - React project**
+- 🔭 I’m currently working on **SYNAgro - Software Agropecuario**
 
 - 🌱 I’m currently learning **Big Data**
 
@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **walskp@gmail.com**
 
-- ⚡ Fun fact **Este va a ser mi resumen :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
