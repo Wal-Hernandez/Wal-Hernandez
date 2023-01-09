@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **SYNAgro - Software Agropecuario**
 
-- 🌱 I’m currently learning **Big Data**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-wal-h.vercel.app/](https://portfolio-wal-h.vercel.app/)
 
