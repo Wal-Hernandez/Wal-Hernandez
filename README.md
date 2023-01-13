@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-wal-h.vercel.app/](https://portfolio-wal-h.vercel.app/)
 
-- 💬 Ask me about **React, Vue, TypeScript, NodeJS, PostgreSQL...**
+- 💬 Ask me about **React, Vue, TypeScript, NodeJS, .NET, PostgreSQL...**
 
 - 📫 How to reach me **walskp@gmail.com**
 
