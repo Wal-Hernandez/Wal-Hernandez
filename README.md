@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/3034walter" target="blank"></a> </p>
 
-- 🔭 I’m currently working on **SYNAgro - Software Agropecuario**
+- 🔭 I’m currently working on **EPPICAL**
 
 - 🌱 I’m currently learning **Backend**
 
@@ -33,6 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wal-hernandez&show_icons=true&locale=en" alt="wal-hernandez" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wal-hernandez&" alt="wal-hernandez" /></p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Wal-Hernandez?theme=dark&font=M%20PLUS%201)
 
 
 ## My Projects
