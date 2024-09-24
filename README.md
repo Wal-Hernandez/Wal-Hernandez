@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-wal-h.vercel.app/](https://portfolio-wal-h.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-wal-h.vercel.app/](https://portfolio-wal-h.vercel.app/) (In progress...)
 
 - 💬 Ask me about **C#, .NET, SQL Server, Javascript...**
 
